@@ -1,7 +1,7 @@
 # SortingProgram
 Different Run-Time for  Sorting Algorithms from CLRS(Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein) tested.
 
-This Program is a GUI program written in Java, to compare run-time of popular and well-know algorithms.
+This Program is a GUI program written in Java, to compare run-time of popular and well-know sorting algorithms, to demonstrate the performance of each algorithm based on same randomly generated file.
 
 To Start program:
   1. Click on "Generate File"(It generates a number of random doubles and saves them to file.txt*).
